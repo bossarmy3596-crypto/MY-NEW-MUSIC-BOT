@@ -12,7 +12,7 @@
    ## FOR HELP CONTACT ME ON DISCORD
    ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
    ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
-*/939998
+*/
 
 const { Client, GatewayIntentBits, Partials } = require("discord.js");
 const { DisTube } = require("distube");
@@ -141,4 +141,4 @@ printWatermark();
    ## FOR HELP CONTACT ME ON DISCORD
    ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
    ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
-*/939998
+*/
